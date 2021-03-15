@@ -1,0 +1,8 @@
+<resources>
+    <string-array name ="namearay">
+        <item>Равными долями</item>
+        <item>Дифференцированные платежи</item>
+        <item>Овернайт</item>
+    </string-array>
+    <string name="app_name">Credit</string>
+</resources>
